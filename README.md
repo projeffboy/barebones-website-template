@@ -8,3 +8,5 @@ The 3 files here are...
 - **script.js:** nothing in here - you can even delete this file if your site does not require Javascript
 
 If you need to use external libraries like jQuery, just manually install it or use a CDN and link it to index.html.
+
+It's that simple, there's nothing more to it.
