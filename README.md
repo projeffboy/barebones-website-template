@@ -3,7 +3,7 @@
 This is a one page website template, with just 3 files and no folders for you to maintain. There's no node modules, no Gulp, no webpack, no React, and there's no Pug or SASS.
 
 The 3 files here are...
-- **index.html:** the necessary tags are already in here
+- **index.html:** the necessary tags are already in here (does not include favicon)
 - **style.css:** contains some selectors to get you started and CSS reset
 - **script.js:** nothing in here - you can even delete this file if your site does not require Javascript
 
